@@ -1,9 +1,8 @@
 +++
 banner = "forestryio/images/citadel.jpg"
 categories = ["season6", "episodes"]
-date = "2014-04-21T00:00:00+00:00"
+date = "2014-04-21T00:00:00Z"
 description = "Finn and Jake follow the Lich to the Citadel, where Finn meets his long lost dad."
-draft = false
 title = "Escape from the Citadel (Season 6)"
 
 +++
