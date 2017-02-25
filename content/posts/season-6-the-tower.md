@@ -1,9 +1,8 @@
 +++
 banner = "forestryio/images/thetower.jpg"
 categories = ["season6", "episodes"]
-date = "2014-05-05T00:00:00+00:00"
+date = "2014-05-05T00:00:00Z"
 description = "Finn is not happy with his replacement arm."
-draft = false
 title = "The Tower (Season 6)"
 
 +++
